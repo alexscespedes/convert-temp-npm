@@ -1,0 +1,24 @@
+{
+  "name": "convert-temp-npm",
+  "version": "1.0.0",
+  "description": "This package allows you to convert temperatures between Celsius and Fahrenheit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexscespedes/convert-temp-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexscespedes/convert-temp-npm/issues"
+  },
+  "homepage": "https://github.com/alexscespedes/convert-temp-npm#readme",
+  "bin": {
+    "convert-temp-npm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
