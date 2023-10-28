@@ -1,6 +1,6 @@
 {
   "name": "convert-temp-npm",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This package allows you to convert temperatures between Celsius and Fahrenheit.",
   "main": "index.js",
   "scripts": {
