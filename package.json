@@ -11,8 +11,8 @@
     "url": "git+https://github.com/alexscespedes/convert-temp-npm.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Alexander Sencion <alexsencion99@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alexscespedes/convert-temp-npm/issues"
   },
